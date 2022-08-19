@@ -1,0 +1,42 @@
+h3 {
+    margin-left: 25%;
+    background-color: #93C47D;
+    color: white;
+    display: inline;
+    padding: 5px 60px;
+    text-align: center;
+    font-family: Arial;
+    font-size: medium;
+}
+
+#addButton {
+    background-color: white;
+    color: #93C47D;
+    border: 3px solid #93C47D;
+    padding: 7px;
+    font-family: Arial;
+
+}
+
+#skillInput {
+    background-color: white;
+    border: 3px solid #93C47D;
+    padding: 7px;
+    width: 30%;
+    margin-left: 25%;
+    font-family: Arial;
+}
+
+#skills {
+    list-style: none;
+    padding-left: 25%;
+    font-family: Arial;
+}
+
+span {
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    margin-right: 5px;
+    padding: 1px 5px 1px 5px;
+}
